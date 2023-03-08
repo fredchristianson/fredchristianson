@@ -1,10 +1,16 @@
-### Hi there 👋
+**March 8, 2023:** 
+
+Starting a [Javascript Game Engine project](/fredchristianson/javascript-game-engine).
+
+Ask if you [want to collaborate](https://github.com/fredchristianson/javascript-game-engine/discussions/2)
+First tasks starting later today.
+
 
 <!--
 **fredchristianson/fredchristianson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
