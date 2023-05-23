@@ -1,12 +1,4 @@
-**March 8, 2023:** 
-
-
-Starting a [Javascript Game Engine project :video_game: :game_die: :black_joker: :dart: :mahjong:](https://github.com/fredchristianson/javascript-game-engine).
-
-Ask if you [want to collaborate](https://github.com/fredchristianson/javascript-game-engine/discussions/2)
-
-First tasks starting later today.
-
+These are my hobby, playing around repos.  
 
 <!--
 **fredchristianson/fredchristianson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
