@@ -1,5 +1,11 @@
 These are my hobby, playing around repos.  
 
+Code for most of my blogs can be seen here
+https://fredchristianson.github.io/javascript-examples/examples/index.html
+
+Or get the repo here
+https://github.com/fredchristianson/javascript-examples
+
 <!--
 **fredchristianson/fredchristianson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
